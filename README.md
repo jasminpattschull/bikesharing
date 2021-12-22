@@ -49,3 +49,6 @@ Overall, it appears that females account for roughly 1/3 of the ridership that m
 It is also quite clear that ridership is highest on the weekdays during the morning and evening commutes.  Saturdays have a fairly higher ridership noted from about mid-morning continuing through the evening.  Sunday notes a slightly less ridership though still higher than weekdays and looks to pickup pace when it can be assumed many are done with church or during the mid-morning time frame.
 
 When considering adding further analysis, it may be enlightening to consider expanding the gender information further and adding Birth Year to ascertain the age groups and their ridership trends.  It may also be beneficial to further analyze the Start and End Station IDs to determine what increases the likelihood of ridership at a given station.
+
+Tableau Public Link:
+https://public.tableau.com/app/profile/jasmin.pattschull/viz/Mod14NYCCitiBike_Challenge/CheckoutTimesforUsers?publish=yes
